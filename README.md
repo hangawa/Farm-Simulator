@@ -17,6 +17,9 @@ This program is written in C and runs in a terminal. I run it in a VS Code termi
 Steps to run the game:
 1. Download this repository
 2. Open it in VS Code
-3. Compile the program by typing: "gcc farmsim.c"
-4. Run the program by typing: "./a.out"
+3. Compile the program by typing:
+```bash
+gcc farmsim.c
+./a.out
+```
 The program will run interactively in the terminal and prompt the user for input.
